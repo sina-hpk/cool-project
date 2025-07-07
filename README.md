@@ -17,11 +17,6 @@ A beautiful, dark-themed desktop flashcard app built with Python and Tkinter tha
 - 💾 All data saved locally to `cards.json`
 - 🖤 Dark-mode interface using `ttk` styling
 
----
-
-## 🖼 Demo
-
-![app-preview](preview.png) <!-- Add a screenshot of the app here -->
 
 ---
 
